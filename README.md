@@ -4,7 +4,7 @@ Name:Atherv Deepak Telkar
 Company:CODETECH IT SOLUTIONS
 ID:CTO8DS264
 Duration:25th December to 25th January 2025
-Mentor:
+Mentor:Neela Santhosh Kumar
 
 
 Overview
@@ -34,3 +34,6 @@ Input validation and error handling (try-except, range checks).
 Arithmetic calculations for averages and GPA.
 Conditional logic for grading and menu navigation.
 Interactive console-based user interface.
+
+
+![task2image](https://github.com/user-attachments/assets/0970ac36-6bb0-4d0a-8b4d-3b7ec19f9473)
